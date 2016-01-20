@@ -1,0 +1,7 @@
+---
+name: just_install_packages
+packages:
+  - git-multibranch-resource
+templates:
+  ignoreme: ignoreme
+properties: {}

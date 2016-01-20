@@ -1,0 +1,5 @@
+---
+name: git-multibranch-resource
+dependencies: []
+files:
+ - git-multibranch-resource/rootfs.tar
