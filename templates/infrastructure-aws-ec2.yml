@@ -9,7 +9,7 @@ meta:
     version: latest
 
 jobs:
-  - name: just_install_packages
+  - name: git-multibranch-resource
     networks:
       - name: git_branches_resource1
     persistent_disk: (( grab meta.persistent_disk ))

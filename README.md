@@ -34,14 +34,14 @@ releases:
     version: latest
 ```
 
-Into the `worker` job, add the `{release: git-multibranch-resource, name: just_install_packages}` job template that will install the package:
+Into the `worker` job, add the `{release: git-multibranch-resource, name: git-multibranch-resource}` job template that will install the package:
 
 ```yaml
 jobs:
 - name: worker
   templates:
     ...
-    - {release: git-multibranch-resource, name: just_install_packages}
+    - {release: git-multibranch-resource, name: git-multibranch-resource}
 ```
 
 The final change is to add the `git-multibranch-resource` package to the list of `additional_resource_types`:
