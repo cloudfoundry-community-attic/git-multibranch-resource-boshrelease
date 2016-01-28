@@ -1,0 +1,20 @@
+---
+packages:
+- name: git-multibranch-resource
+  version: 376c495342f7b6218439e2272910df50e5ec4548
+  fingerprint: 376c495342f7b6218439e2272910df50e5ec4548
+  sha1: a0d5888b0598bfc7a8177b1d864e37c9f53ad1e3
+  dependencies: []
+jobs:
+- name: git-multibranch-resource
+  version: e4fda57be2016b87e38068406b0e285c6ffb16e5
+  fingerprint: e4fda57be2016b87e38068406b0e285c6ffb16e5
+  sha1: cb8dad2a8408d24e55c08e32693d8c4816489b2d
+license:
+  version: 4c5a2fc47efe32c2efa9bbdab52c95c7f9221682
+  fingerprint: 4c5a2fc47efe32c2efa9bbdab52c95c7f9221682
+  sha1: 8911a53415511c2bc7ca71efff904ea05c02074b
+commit_hash: 75891d3e
+uncommitted_changes: true
+name: git-multibranch-resource
+version: '1'
