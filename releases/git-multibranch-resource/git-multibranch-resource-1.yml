@@ -15,6 +15,6 @@ license:
   fingerprint: 4c5a2fc47efe32c2efa9bbdab52c95c7f9221682
   sha1: 8911a53415511c2bc7ca71efff904ea05c02074b
 commit_hash: 75891d3e
-uncommitted_changes: true
+uncommitted_changes: false
 name: git-multibranch-resource
 version: '1'
